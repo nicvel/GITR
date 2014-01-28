@@ -6,4 +6,4 @@ plot(x)
 plot (x*y)
 
 a  <- rnorm(19)
-> plot(a)
+plot(a)+(x)
