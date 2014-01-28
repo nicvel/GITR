@@ -5,5 +5,5 @@ y  <- (300:320)
 plot(x)
 plot (x*y)
 
-a  <- rnorm(20)
+a  <- rnorm(19)
 > plot(a)
